@@ -1,0 +1,13 @@
+## Temporary files & caches
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+.vs/
+.idea/
+
+## OS generated
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
